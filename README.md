@@ -1,5 +1,5 @@
 
-<h2>Live link 🌍 - [  [https://study-notion-mern-stack.netlify.app/ ](https://edtech-platform-irnh-v8ajrkla5-dhruv26120s-projects.vercel.app/) ]</h2>
+<h2>Live link 🌍 - [  https://edtech-platform-irnh-v8ajrkla5-dhruv26120s-projects.vercel.app/ ]</h2>
 <hr/>
 
 # Project Description 📝
